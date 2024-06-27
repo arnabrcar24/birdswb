@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Barn Owl",
-      "image": "../assets/images/nocturnal-birds/barn-owl.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/nocturnal-birds/barn-owl.jpg",
       "size": "36",
       "season": "All",
       "gender": "",
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "name": "Brown Fish Owl",
-      "image": "../assets/images/nocturnal-birds/brown-fish-owl.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/nocturnal-birds/brown-fish-owl.jpg",
       "size": "56",
       "season": "All",
       "gender": "",
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "name": "Indian Nightjar",
-      "image": "../assets/images/nocturnal-birds/indian-nightjar.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/nocturnal-birds/indian-nightjar.jpg",
       "size": "24",
       "season": "All",
       "gender": "",
@@ -30,7 +30,7 @@
     {
       "id": "4",
       "name": "Spotted Owlet",
-      "image": "../assets/images/nocturnal-birds/spotted-owlet.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/nocturnal-birds/spotted-owlet.jpg",
       "size": "21",
       "season": "All",
       "gender": "",
@@ -39,7 +39,7 @@
     {
       "id": "5",
       "name": "Brahminy Kite",
-      "image": "../assets/images/birds-of-prey/brahminy-kite.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/birds-of-prey/brahminy-kite.jpg",
       "size": "48",
       "season": "All",
       "gender": "",
@@ -48,7 +48,7 @@
     {
       "id": "6",
       "name": "Black Baza",
-      "image": "../assets/images/birds-of-prey/black-baza.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/birds-of-prey/black-baza.jpg",
       "size": "33",
       "season": "Winter",
       "gender": "",
@@ -57,7 +57,7 @@
     {
       "id": "7",
       "name": "Pied Harrier",
-      "image": "../assets/images/birds-of-prey/pied-harrier-male.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/birds-of-prey/pied-harrier-male.jpg",
       "size": "44",
       "season": "Winter",
       "gender": "Male",
@@ -66,7 +66,7 @@
     {
       "id": "8",
       "name": "Pied Harrier",
-      "image": "../assets/images/birds-of-prey/pied-harrier-female.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/birds-of-prey/pied-harrier-female.jpg",
       "size": "44",
       "season": "Winter",
       "gender": "Female",
@@ -75,7 +75,7 @@
     {
       "id": "9",
       "name": "Ashy Woodswallow",
-      "image": "../assets/images/aerial-feeding-birds/ashy-woodswallow.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/aerial-feeding-birds/ashy-woodswallow.jpg",
       "size": "19",
       "season": "All",
       "gender": "",
@@ -84,7 +84,7 @@
     {
       "id": "10",
       "name": "Little Swift",
-      "image": "../assets/images/aerial-feeding-birds/little-swift.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/aerial-feeding-birds/little-swift.jpg",
       "size": "12",
       "season": "All",
       "gender": "",
@@ -93,7 +93,7 @@
     {
       "id": "11",
       "name": "Wire-tailed Swallow",
-      "image": "../assets/images/aerial-feeding-birds/wire-tailed-swallow.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/aerial-feeding-birds/wire-tailed-swallow.jpg",
       "size": "18",
       "season": "All",
       "gender": "",
@@ -102,7 +102,7 @@
     {
       "id": "12",
       "name": "Barn Swallow",
-      "image": "../assets/images/aerial-feeding-birds/barn-swallow.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/aerial-feeding-birds/barn-swallow.jpg",
       "size": "18",
       "season": "Winter",
       "gender": "",
@@ -111,7 +111,7 @@
     {
       "id": "13",
       "name": "Eurasian Hoopoe",
-      "image": "../assets/images/ground-feeding-birds/eurasian-hoopoe.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/ground-feeding-birds/eurasian-hoopoe.jpg",
       "size": "31",
       "season": "Winter",
       "gender": "",
@@ -120,7 +120,7 @@
     {
       "id": "14",
       "name": "Indian Peafowl",
-      "image": "../assets/images/ground-feeding-birds/indian-peafowl-male.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/ground-feeding-birds/indian-peafowl-male.jpg",
       "size": "110",
       "season": "All",
       "gender": "Male",
@@ -129,7 +129,7 @@
     {
       "id": "15",
       "name": "Indian Peafowl",
-      "image": "../assets/images/ground-feeding-birds/indian-peafowl-female.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/ground-feeding-birds/indian-peafowl-female.jpg",
       "size": "85",
       "season": "All",
       "gender": "Female",
@@ -138,7 +138,7 @@
     {
       "id": "16",
       "name": "Indian Pitta",
-      "image": "../assets/images/ground-feeding-birds/indian-pitta.jpg",
+      "image": "https://arnabrcar24.github.io/birdswb/assets/images/ground-feeding-birds/indian-pitta.jpg",
       "size": "18",
       "season": "Summer",
       "gender": "",
