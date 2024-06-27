@@ -1,0 +1,19 @@
+<nav class="bg-gray-800">
+    <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <div class="relative flex h-16 items-center justify-between">
+            <div class="flex flex-1 sm:items-stretch pl-2 sm:pl-0">
+                <div class="flex flex-shrink-0 text-white text-xl">
+                    <a routerLink="/">Birds of West Bengal</a>
+                </div>
+            </div>
+            <div class="flex sm:ml-6 pr-2 sm:pr-0">
+                <button type="button" class="text-gray-400 hover:text-white border-gray-300 border-solid border rounded-md px-3 py-1 text-sm font-semibold" (click)="addBird()">
+                    + Add <span class="hidden sm:inline">New Bird</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</nav>
+@if (showAddModal) {
+<app-add-bird (nEvent)="addBird()"></app-add-bird>
+}
